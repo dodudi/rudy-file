@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: rudy-file
+
+server:
+  port: 8084
