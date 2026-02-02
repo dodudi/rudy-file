@@ -43,7 +43,7 @@ public class SecurityConfig {
                 "http://localhost:5173",
                 "https://rudy.it.kr",
                 "https://api.rudy.it.kr",
-                "https://blog.rudy.it.kr"
+                "https://file.rudy.it.kr"
         ));
         configuration.setAllowedMethods(List.of("GET", "POST", "PUT", "DELETE", "OPTIONS"));
         configuration.setAllowedHeaders(List.of("*"));
